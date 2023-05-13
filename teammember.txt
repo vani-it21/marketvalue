@@ -2,3 +2,4 @@ santhoshkumar  -developer
 manish -manager
 sathiyapriya -programmer
 yuvaraj-coder
+shan - frontend developer
